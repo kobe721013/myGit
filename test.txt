@@ -1,0 +1,5 @@
+https://MichaelDrogalis@github.com/derekerdmann/lunch_call.git 
+  ssh://git@github.com/derekerdmann/lunch_call.git
+	
+
+backup [url = https://github.com/kobe721013/myGit.git]
